@@ -5,13 +5,11 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👨‍💻 All of my projects are available at [Baptist.com](Baptist.com)
+- 👨‍💻 All of my projects are available at [Baptist.com](https://baptist-jade.vercel.app)
 
 - 💬 Ask me about **HTML, CSS, Javascript and React**
 
 - 📫 How to reach me **baptistikenna@gmail.com**
-
-- 📄 Know about my experiences [link.com](link.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
